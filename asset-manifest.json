@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/work-randomizer/static/css/main.09362d80.chunk.css",
+    "main.js": "/work-randomizer/static/js/main.040316ae.chunk.js",
+    "main.js.map": "/work-randomizer/static/js/main.040316ae.chunk.js.map",
+    "runtime-main.js": "/work-randomizer/static/js/runtime-main.87ff7499.js",
+    "runtime-main.js.map": "/work-randomizer/static/js/runtime-main.87ff7499.js.map",
+    "static/js/2.30c1d2e1.chunk.js": "/work-randomizer/static/js/2.30c1d2e1.chunk.js",
+    "static/js/2.30c1d2e1.chunk.js.map": "/work-randomizer/static/js/2.30c1d2e1.chunk.js.map",
+    "static/js/3.14172070.chunk.js": "/work-randomizer/static/js/3.14172070.chunk.js",
+    "static/js/3.14172070.chunk.js.map": "/work-randomizer/static/js/3.14172070.chunk.js.map",
+    "index.html": "/work-randomizer/index.html",
+    "static/css/main.09362d80.chunk.css.map": "/work-randomizer/static/css/main.09362d80.chunk.css.map",
+    "static/js/2.30c1d2e1.chunk.js.LICENSE.txt": "/work-randomizer/static/js/2.30c1d2e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ff7499.js",
+    "static/js/2.30c1d2e1.chunk.js",
+    "static/css/main.09362d80.chunk.css",
+    "static/js/main.040316ae.chunk.js"
+  ]
+}
