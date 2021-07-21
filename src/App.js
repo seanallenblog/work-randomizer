@@ -140,8 +140,8 @@ function App () {
               <button className="remove-btn" onClick={removeEmployeeField}>Remove last</button>
             </div>
             <div className="clear-and-set">
-              <button onClick={setEmployees}>Set employees</button>
-              <button onClick={clearEmployees}>Reset</button>
+              <button className="set-employees-btn" onClick={setEmployees}>Set employees</button>
+              <button className="clear-employees-btn" onClick={clearEmployees}>Reset</button>
             </div>
           </div>
         </form>

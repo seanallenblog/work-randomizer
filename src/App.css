@@ -40,17 +40,29 @@ button:hover {
 }
 
 .add-btn {
-  background: forestgreen;
+  background: rgb(153, 43, 226);
   color: white;
   font-weight: bold;
 }
 
 .remove-btn {
-  background: rgb(243, 200, 7);
+  background: rgb(137, 173, 35);
   color: rgb(255, 255, 255);
   font-weight: bold;
 }
 
+.set-employees-btn {
+  background: rgb(238, 155, 2);
+  color: white;
+  font-weight: bold;
+}
+
+.assign-jobs-btn {
+  margin-bottom: 1.5rem;
+  background: rgb(252, 129, 149);
+  color: white;
+  font-weight: bold;
+}
 
 textarea, input {
   margin-bottom: 1.5rem;
@@ -62,12 +74,9 @@ label {
   text-align: center;
 }
 
-.assign-jobs-btn {
-  margin-bottom: 1.5rem;
-}
 
 form, .jobs-list, .job-assignments {
-  background: dodgerblue;
+  background: rgb(26, 196, 238);
   padding: 2.5rem;
   border-radius: 1.5rem;
   margin-top: 1.5rem;
